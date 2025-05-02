@@ -82,6 +82,7 @@
                 display: block;
                 margin: 0 auto 20px;
             }
+          
         }
     
 
@@ -108,12 +109,14 @@
             margin-top: 10px;
         }
         #go-back {
-            border-radius: 200px;
-           
+            border-radius: 100px;
+             
             padding: 20px;
             font-size: 1.2em;
+            margin-left: 50%;
         }
         #go-back a{
             text-decoration: none;
             color: #2c3e50 ;
+           
         }
